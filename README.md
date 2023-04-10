@@ -29,5 +29,5 @@ Note I have already created over a million tokens with this generator. As I have
  Integrate GOLang API for realistic usernames, bios & more
  Create GUI
  
- ![image](https://user-images.githubusercontent.com/62238197/230951182-c164376d-b5a7-4a80-97a4-d51144f2b3a2.png | width=100)
- <img src="https://user-images.githubusercontent.com/62238197/230951182-c164376d-b5a7-4a80-97a4-d51144f2b3a2.png" width="50" height="50">
+ 
+ <img src="https://user-images.githubusercontent.com/62238197/230951182-c164376d-b5a7-4a80-97a4-d51144f2b3a2.png" width="130" height="130">
