@@ -30,4 +30,4 @@ Note I have already created over a million tokens with this generator. As I have
  Create GUI
  
  
- <img src="https://user-images.githubusercontent.com/62238197/230951182-c164376d-b5a7-4a80-97a4-d51144f2b3a2.png" width="130" height="130">
+ <img src="https://user-images.githubusercontent.com/62238197/230951182-c164376d-b5a7-4a80-97a4-d51144f2b3a2.png" width="330" height="330">
