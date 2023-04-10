@@ -21,13 +21,13 @@ Note I have already created over a million tokens with this generator. As I have
 
 ✨ **QoL features:**
 
- Check if an account has the spammer or locked flag upon registering
- 3 different types for token formatting when saving registered accounts
- Generates unlocked tokens w/ datacenter proxies (very cheap / free)
- Automatically set a PFP, banner, apply for hypesquad and connect to websocket
- Various methods to make 99.9% tokens unlocked
- Integrate GOLang API for realistic usernames, bios & more
- Create GUI
+ ✅ Check if an account has the spammer or locked flag upon registering
+ ✅ 3 different types for token formatting when saving registered accounts
+ ✅ Generates unlocked tokens w/ datacenter proxies (very cheap / free)
+ ✅ Automatically set a PFP, banner, apply for hypesquad and connect to websocket
+ ✅Various methods to make 99.9% tokens unlocked
+ 🗸Integrate GOLang API for realistic usernames, bios & more
+ 🗸Create GUI
  
  
  <img src="https://user-images.githubusercontent.com/62238197/230951182-c164376d-b5a7-4a80-97a4-d51144f2b3a2.png" width="490" height="480">
